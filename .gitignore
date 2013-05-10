@@ -9,3 +9,4 @@ coverage
 Gemfile.lock
 .cucumber.rerun
 gemfiles/*.lock
+.DS_Store
